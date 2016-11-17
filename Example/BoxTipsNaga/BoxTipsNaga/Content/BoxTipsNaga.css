@@ -1,0 +1,37 @@
+﻿.Tip{
+    background: white;
+    padding: 10px 10px;
+    position: absolute;
+    z-index: 1000;
+    width: 200px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.Background-Tip{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 990;
+}
+
+.TipTitle{
+    text-align: center;
+    font-weight: bold;
+}
+
+.TipTitle:after{
+    content: "";
+    height: 2px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.37);
+    display: block;
+    margin: 10px 0px 5px 0px;
+}
+
+.TipBottom{
+    
+}

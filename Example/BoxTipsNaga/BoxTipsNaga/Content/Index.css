@@ -1,0 +1,46 @@
+﻿.box{
+    width: 50px;
+    height: 50px;
+}
+
+.box1{
+    background-color: red;
+}
+
+.box2{
+    background-color: green;
+}
+
+.box3{
+    background-color: blue;
+}
+
+.box4{
+    background-color: purple;
+    position:absolute;
+    right: 0px;
+}
+
+.box5{
+    background-color: pink;
+    position:absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.box6{
+    background-color: moccasin;
+    position:absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+.box7{
+    background-color: #0094ff;
+    width: 300px;
+}
+
+.box8{
+    background-color: #ff6a00;
+    width: 100%;
+}
