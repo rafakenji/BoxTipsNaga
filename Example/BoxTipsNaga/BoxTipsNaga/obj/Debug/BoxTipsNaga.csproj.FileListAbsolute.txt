@@ -4,3 +4,9 @@ C:\Rafael Kenji Nagai\Estudos\BoxTipsNaga\BoxTipsNaga\bin\BoxTipsNaga.pdb
 C:\Rafael Kenji Nagai\Estudos\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.csprojResolveAssemblyReference.cache
 C:\Rafael Kenji Nagai\Estudos\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.dll
 C:\Rafael Kenji Nagai\Estudos\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.pdb
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\bin\BoxTipsNaga.dll.config
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\bin\BoxTipsNaga.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\bin\BoxTipsNaga.pdb
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.csprojResolveAssemblyReference.cache
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.dll
+C:\Rafael Kenji Nagai\Estudos\GITHUB\BoxTipsNaga\Example\BoxTipsNaga\BoxTipsNaga\obj\Debug\BoxTipsNaga.pdb

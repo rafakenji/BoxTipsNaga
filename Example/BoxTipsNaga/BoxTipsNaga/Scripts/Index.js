@@ -9,5 +9,5 @@
     BoxTip.AddTip(".box8", "Preciso aprimorar este tips para que quando colocar uma classe igual ele coloque o tip de acordo com ele na tela", "Aviso");
     BoxTip.Cache = true;
     //BoxTip.Refresh();
-    BoxTip.Init(true);
+    BoxTip.Init();
 })
