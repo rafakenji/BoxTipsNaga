@@ -21,7 +21,8 @@ What's necessary to utilize the `BoxTips`
 
 ### 3. Begin
 
-Call for `BoxTipsNaga.js` and` BoxTipsNaga.css` in your HTML
+Call for `BoxTipsNaga.js` and `BoxTipsNaga.css` in your HTML.
+
 	```
 	<!DOCTYPE html>
 		<html xmlns="http://www.w3.org/1999/xhtml">
@@ -45,11 +46,13 @@ Call for `BoxTipsNaga.js` and` BoxTipsNaga.css` in your HTML
 	```
 
 In `BoxTip.AddTip` you give the class of the element you want to highlight and the text you want to pass.
+
 	```
 	BoxTip.AddTip("CLASSE", "MENSAGEM");
 	```
 
-In `BoxTip.Init` it is necessary to start` BoxTips`
+In `BoxTip.Init` it is necessary to start `BoxTips`.
+
 	```
 	BoxTip.Init();
 	```
@@ -67,6 +70,12 @@ Ready!
 	```
 	BoxTip.AddTip("CLASSE", "MENSAGEM");
 	```
+	![Image of Yaktocat](/Images/Image1.PNG)
+
+	```
+	BoxTip.AddTip("CLASSE", "MENSAGEM", "TITULO");
+	```
+	![Image of Yaktocat](/Images/Image2.PNG)
 	
 * Pick up the index he finds
 	```
@@ -90,7 +99,7 @@ Ready!
 
 ### 5. Example	
 
-In `\ Example` contains a test template using` BoxTips`.
+In `\Example\BoxTipsNaga` contains a test template using `BoxTips`.
 	
 	
 
@@ -118,6 +127,7 @@ O que é necessario para utilizar o `BoxTips`
 ### 3. Começando
 
 Chame pelo `BoxTipsNaga.js` e `BoxTipsNaga.css` no seu HTML.
+
 	```
 	<!DOCTYPE html>
 		<html xmlns="http://www.w3.org/1999/xhtml">
@@ -141,11 +151,13 @@ Chame pelo `BoxTipsNaga.js` e `BoxTipsNaga.css` no seu HTML.
 	```
 
 No `BoxTip.AddTip` você passa a classe do elemento que deseja destacar e o texto que deseja passar.
+
 	```
 	BoxTip.AddTip("CLASSE", "MENSAGEM");
 	```
 
-No `BoxTip.Init` é necessario para começar o `BoxTips`
+No `BoxTip.Init` é necessario para começar o `BoxTips`.
+
 	```
 	BoxTip.Init();
 	```
@@ -163,6 +175,12 @@ Pronto!
 	```
 	BoxTip.AddTip("CLASSE", "MENSAGEM");
 	```
+	![Image of Yaktocat](/Images/Image1.PNG)
+
+	```
+	BoxTip.AddTip("CLASSE", "MENSAGEM", "TITULO");
+	```
+	![Image of Yaktocat](/Images/Image2.PNG)
 	
 * Pegar o indice que ele se encontra
 	```
@@ -186,4 +204,4 @@ Pronto!
 
 ### 5. Exemplo
 
-em `\Example` contem um modelo de teste utilizando o `BoxTips`.
+em `\Example\BoxTipsNaga` contem um modelo de teste utilizando o `BoxTips`.
